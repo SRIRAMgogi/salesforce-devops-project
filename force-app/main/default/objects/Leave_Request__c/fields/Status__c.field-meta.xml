@@ -24,6 +24,11 @@
                 <default>false</default>
                 <label>Rejected</label>
             </value>
+            <value>
+                <fullName>Escalated</fullName>
+                <default>false</default>
+                <label>Escalated</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
