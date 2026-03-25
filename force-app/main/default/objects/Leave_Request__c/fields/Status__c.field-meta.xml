@@ -15,14 +15,19 @@
                 <label>Pending</label>
             </value>
             <value>
-                <fullName>Approved</fullName>
+                <fullName>Accepted</fullName>
                 <default>false</default>
-                <label>Approved</label>
+                <label>Accepted</label>
             </value>
             <value>
                 <fullName>Rejected</fullName>
                 <default>false</default>
                 <label>Rejected</label>
+            </value>
+            <value>
+                <fullName>Escalated</fullName>
+                <default>false</default>
+                <label>Escalated</label>
             </value>
         </valueSetDefinition>
     </valueSet>
