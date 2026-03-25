@@ -15,9 +15,9 @@
                 <label>Pending</label>
             </value>
             <value>
-                <fullName>Approved</fullName>
+                <fullName>Accepted</fullName>
                 <default>false</default>
-                <label>Approved</label>
+                <label>Accepted</label>
             </value>
             <value>
                 <fullName>Rejected</fullName>
