@@ -10,9 +10,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Pending</fullName>
+                <fullName>Waiting</fullName>
                 <default>true</default>
-                <label>Pending</label>
+                <label>Waiting</label>
             </value>
             <value>
                 <fullName>Accepted</fullName>
