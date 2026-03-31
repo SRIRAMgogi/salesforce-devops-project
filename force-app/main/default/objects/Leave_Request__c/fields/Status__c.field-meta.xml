@@ -10,14 +10,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Waiting</fullName>
-                <default>false</default>
-                <label>Waiting</label>
-
                 <fullName>In Progress</fullName>
-                <default>false</default>
+                <default>true</default>
                 <label>In Progress</label>
-feature/conflict-2
             </value>
             <value>
                 <fullName>Accepted</fullName>
